@@ -1,0 +1,145 @@
+[
+  {
+    "firstName": "Amina",
+    "lastName": "El Idrissi",
+    "email": "amina@example.com",
+    "location": "Casablanca",
+    "experienceYears": 1,
+    "skills": ["React", "JS", "HTML", "CSS", "Git"],
+    "availabilityDate": "2025-10-01",
+    "stage": "SOURCED",
+    "notes": "Portfolio: https://amina.dev"
+  },
+  {
+    "firstName": "Youssef",
+    "lastName": "Bennani",
+    "email": "youssef@example.com",
+    "location": "Rabat",
+    "experienceYears": 2,
+    "skills": ["Python", "Django", "SQL", "Git"],
+    "availabilityDate": "2025-10-10",
+    "stage": "SOURCED",
+    "notes": "Github: github.com/yben"
+  },
+  {
+    "firstName": "Salma",
+    "lastName": "Khattabi",
+    "email": "salma@example.com",
+    "location": "Casablanca",
+    "experienceYears": 0,
+    "skills": ["React", "JS", "HTML", "Figma"],
+    "availabilityDate": "2025-09-28",
+    "stage": "SCREEN",
+    "notes": "Hackathon winner 2024"
+  },
+  {
+    "firstName": "Omar",
+    "lastName": "Nazih",
+    "email": "omar@example.com",
+    "location": "Marrakesh",
+    "experienceYears": 3,
+    "skills": ["Vue", "Node", "JS", "Git"],
+    "availabilityDate": "2025-11-15",
+    "stage": "SOURCED",
+    "notes": ""
+  },
+  {
+    "firstName": "Lina",
+    "lastName": "El Fassi",
+    "email": "lina@example.com",
+    "location": "Casablanca",
+    "experienceYears": 1,
+    "skills": ["React", "TypeScript", "Git", "HTML", "CSS"],
+    "availabilityDate": "2025-09-25",
+    "stage": "INTERVIEW",
+    "notes": "Built UI library at school"
+  },
+  {
+    "firstName": "Hamza",
+    "lastName": "Ouahidi",
+    "email": "hamza@example.com",
+    "location": "Tangier",
+    "experienceYears": 2,
+    "skills": ["React", "JS", "Next.js", "Git"],
+    "availabilityDate": "2025-10-05",
+    "stage": "SOURCED",
+    "notes": ""
+  },
+  {
+    "firstName": "Meriem",
+    "lastName": "Tazi",
+    "email": "meriem@example.com",
+    "location": "Casablanca",
+    "experienceYears": 1,
+    "skills": ["Python", "Flask", "SQL", "React", "Git"],
+    "availabilityDate": "2025-09-22",
+    "stage": "SCREEN",
+    "notes": "Full‑stack school project"
+  },
+  {
+    "firstName": "Reda",
+    "lastName": "Ait Ougadir",
+    "email": "reda@example.com",
+    "location": "Casablanca",
+    "experienceYears": 0,
+    "skills": ["HTML", "CSS", "JS", "Git"],
+    "availabilityDate": "2025-09-21",
+    "stage": "SOURCED",
+    "notes": ""
+  },
+  {
+    "firstName": "Ikram",
+    "lastName": "Sbai",
+    "email": "ikram@example.com",
+    "location": "Rabat",
+    "experienceYears": 2,
+    "skills": ["React", "JS", "Redux", "Git"],
+    "availabilityDate": "2025-09-30",
+    "stage": "INTERVIEW",
+    "notes": "Built dashboard with charts"
+  },
+  {
+    "firstName": "Khalid",
+    "lastName": "Jad",
+    "email": "khalid@example.com",
+    "location": "Casablanca",
+    "experienceYears": 1,
+    "skills": ["React", "JS", "Tailwind", "Git"],
+    "availabilityDate": "2025-10-12",
+    "stage": "SOURCED",
+    "notes": "Tailwind enthusiast"
+  },
+  {
+    "firstName": "Houda",
+    "lastName": "Lahlou",
+    "email": "houda@example.com",
+    "location": "Fes",
+    "experienceYears": 2,
+    "skills": ["Angular", "TS", "Git", "HTML", "CSS"],
+    "availabilityDate": "2025-09-27",
+    "stage": "SOURCED",
+    "notes": ""
+  },
+  {
+    "firstName": "Achraf",
+    "lastName": "El Mansouri",
+    "email": "achraf@example.com",
+    "location": "Casablanca",
+    "experienceYears": 2,
+    "skills": ["React", "JS", "Node", "Git", "HTML", "CSS"],
+    "availabilityDate": "2025-09-23",
+    "stage": "SOURCED",
+    "notes": "Portfolio: achraf.dev"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Amrani",
+    "email": "sara@example.com",
+    "location": "Casablanca",
+    "experienceYears": 0,
+    "skills": ["React", "JS", "HTML", "CSS"],
+    "availabilityDate": "2025-09-24",
+    "stage": "SOURCED",
+    "notes": "Open to internships"
+  }
+]
