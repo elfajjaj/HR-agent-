@@ -1,4 +1,42 @@
-{
-  "FE-Intern-A": [1, 3],
-  "FE-Intern-B": [1, 3]
-}
+[
+  {
+    "name": "FE-Intern-A",
+    "createdAt": "2025-09-22T13:28:11.904905",
+    "candidates": [
+      {
+        "firstName": "Amina",
+        "lastName": "El Idrissi",
+        "email": "amina@example.com",
+        "location": "Casablanca",
+        "experienceYears": 1,
+        "skills": [
+          "React",
+          "JS",
+          "HTML",
+          "CSS",
+          "Git"
+        ],
+        "availabilityDate": "2025-10-01",
+        "stage": "SOURCED",
+        "notes": "Portfolio: https://amina.dev"
+      },
+      {
+        "firstName": "Lina",
+        "lastName": "El Fassi",
+        "email": "lina@example.com",
+        "location": "Casablanca",
+        "experienceYears": 1,
+        "skills": [
+          "React",
+          "TypeScript",
+          "Git",
+          "HTML",
+          "CSS"
+        ],
+        "availabilityDate": "2025-09-25",
+        "stage": "INTERVIEW",
+        "notes": "Built UI library at school"
+      }
+    ]
+  }
+]
